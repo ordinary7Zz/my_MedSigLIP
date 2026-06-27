@@ -39,10 +39,16 @@ def main():
     if args.device:
         config["device"] = args.device
 
+    num_cls = config["model"]["num_classes"]
+    strategy = config["model"]["fine_tune_strategy"]
+
     print(f"\n{'='*60}")
     print(f"Config: {args.config}")
-    print(f"Task: {'Binary (Benign/Malignant)' if config['model']['num_classes'] == 2 else f'Multi-class ({config[\"model\"][\"num_classes\"]} classes)'}")
-    print(f"Fine-tuning Strategy: {config['model']['fine_tune_strategy']}")
+    if num_cls == 2:
+        print("Task: Binary (Benign/Malignant)")
+    else:
+        print(f"Task: Multi-class ({num_cls} classes)")
+    print(f"Fine-tuning Strategy: {strategy}")
     print(f"{'='*60}\n")
 
     # 设置设备
