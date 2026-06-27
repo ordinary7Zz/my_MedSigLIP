@@ -1,0 +1,81 @@
+# ============================================================
+# 甲状腺超声 TIRADS 多分类 配置文件
+# ============================================================
+# TIRADS 分类参考:
+#   0: TIRADS 1 (Normal)
+#   1: TIRADS 2 (Benign)
+#   2: TIRADS 3 (Probably Benign)
+#   3: TIRADS 4 (Suspicious, 可拆分为 4a/4b/4c)
+#   4: TIRADS 5 (Highly Suspicious - Malignant)
+# 可按实际数据调整为其他分级方案
+
+model:
+  # HuggingFace ID 或本地路径。如已下载到本地，改为本地路径:
+  #   name: "./pretrained/medsiglip-448"
+  name: "google/medsiglip-448"
+  local_files_only: false                # true: 仅从本地加载，不联网
+  num_classes: 5                         # TIRADS 1-5
+  fine_tune_strategy: "partial"          # linear_probing | partial | full
+  unfreeze_last_n: 6
+  classifier_dropout: 0.1
+  use_class_weights: true
+
+data:
+  # 数据组织方式:
+  #   data/thyroid_tirads/
+  #     train/
+  #       tirads_1/
+  #       tirads_2/
+  #       tirads_3/
+  #       tirads_4/
+  #       tirads_5/
+  #     val/
+  #       tirads_1/ ... tirads_5/
+  #     test/
+  #       tirads_1/ ... tirads_5/
+  root_dir: "data/thyroid_tirads"
+  image_size: 448
+  mean: [0.5, 0.5, 0.5]
+  std: [0.5, 0.5, 0.5]
+
+  augmentation:
+    random_horizontal_flip: true
+    random_rotation: 10
+    random_brightness_contrast: 0.1
+    random_affine_scale: [0.95, 1.05]
+
+  num_workers: 4
+  pin_memory: true
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 5e-5
+  weight_decay: 0.01
+  warmup_epochs: 3
+  lr_scheduler: "cosine"
+  lr_min: 1e-6
+  early_stopping_patience: 10
+  gradient_accumulation_steps: 1
+  max_grad_norm: 1.0
+  mixed_precision: "fp16"
+  label_smoothing: 0.1                   # 多分类可用 0.1
+
+  loss:
+    name: "cross_entropy"                # cross_entropy
+
+evaluation:
+  metrics: ["accuracy", "macro_f1", "weighted_f1", "auc_roc_ovr", "kappa"]
+  save_best_metric: "macro_f1"
+  mode: "max"
+
+logging:
+  log_dir: "logs/multi_cls"
+  checkpoint_dir: "checkpoints/multi_cls"
+  log_interval: 20
+  eval_interval: 1
+  use_tensorboard: true
+  save_top_k: 3
+
+seed: 42
+device: "cuda"

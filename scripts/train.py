@@ -1,0 +1,103 @@
+#!/usr/bin/env python3
+"""
+MedSigLIP 甲状腺超声图像分类 - 主训练脚本
+
+用法:
+    # 二分类（良恶性）
+    python scripts/train.py --config configs/binary_cls.yaml
+
+    # TIRADS 多分类
+    python scripts/train.py --config configs/multi_cls.yaml
+
+    # 从检查点恢复训练
+    python scripts/train.py --config configs/binary_cls.yaml --resume checkpoints/binary_cls/best_model.pt
+"""
+
+import sys
+import os
+import argparse
+
+# 将项目根目录加入路径
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+import torch
+from src.models.classifier import MedSigLIPClassifier
+from src.data.dataset import create_dataloaders
+from src.trainers.trainer import Trainer
+from src.utils.logger import load_config, save_config
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Train MedSigLIP classifier on thyroid ultrasound")
+    parser.add_argument("--config", type=str, required=True, help="Path to YAML config file")
+    parser.add_argument("--resume", type=str, default=None, help="Path to checkpoint to resume from")
+    parser.add_argument("--device", type=str, default=None, help="Override device (cuda:0, cpu, etc.)")
+    args = parser.parse_args()
+
+    # 加载配置
+    config = load_config(args.config)
+    if args.device:
+        config["device"] = args.device
+
+    print(f"\n{'='*60}")
+    print(f"Config: {args.config}")
+    print(f"Task: {'Binary (Benign/Malignant)' if config['model']['num_classes'] == 2 else f'Multi-class ({config[\"model\"][\"num_classes\"]} classes)'}")
+    print(f"Fine-tuning Strategy: {config['model']['fine_tune_strategy']}")
+    print(f"{'='*60}\n")
+
+    # 设置设备
+    device = torch.device(config.get("device", "cuda") if torch.cuda.is_available() else "cpu")
+    print(f"Using device: {device}")
+
+    # 创建 DataLoader
+    train_loader, val_loader, test_loader, train_dataset = create_dataloaders(
+        data_cfg=config["data"],
+        batch_size=config["training"]["batch_size"],
+    )
+
+    # 创建模型
+    model = MedSigLIPClassifier(
+        model_name=config["model"]["name"],
+        num_classes=config["model"]["num_classes"],
+        fine_tune_strategy=config["model"]["fine_tune_strategy"],
+        unfreeze_last_n=config["model"].get("unfreeze_last_n", 6),
+        dropout=config["model"].get("classifier_dropout", 0.1),
+        local_files_only=config["model"].get("local_files_only", False),
+    )
+
+    # 类别权重
+    class_weights = None
+    if config["model"].get("use_class_weights", False):
+        class_weights = train_dataset.get_class_weights()
+        print(f"Class weights: {class_weights.tolist()}")
+
+    # 从检查点恢复
+    if args.resume:
+        print(f"Resuming from checkpoint: {args.resume}")
+        checkpoint = torch.load(args.resume, map_location=device, weights_only=False)
+        model.load_state_dict(checkpoint["model_state_dict"])
+        print(f"  Resumed from epoch {checkpoint['epoch']+1}")
+
+    # 保存当前配置到 checkpoint 目录
+    checkpoint_dir = config["logging"]["checkpoint_dir"]
+    os.makedirs(checkpoint_dir, exist_ok=True)
+    save_config(config, os.path.join(checkpoint_dir, "config.yaml"))
+
+    # 创建训练器并训练
+    trainer = Trainer(
+        model=model,
+        train_loader=train_loader,
+        val_loader=val_loader,
+        config=config,
+        class_names=train_dataset.class_names,
+        class_weights=class_weights,
+        test_loader=test_loader,
+    )
+
+    trainer.train()
+
+    print("\nDone! Best model saved to:", os.path.join(checkpoint_dir, "best_model.pt"))
+
+
+if __name__ == "__main__":
+    main()
