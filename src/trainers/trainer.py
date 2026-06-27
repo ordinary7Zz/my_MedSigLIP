@@ -153,7 +153,11 @@ class Trainer:
 
     def _bce_loss(self, logits: torch.Tensor, labels: torch.Tensor) -> torch.Tensor:
         """二分类 BCE 损失"""
-        return self.criterion(logits.view(-1), labels.float())
+        if logits.shape[1] == 1:
+            return self.criterion(logits.view(-1), labels.float())
+        else:
+            # 多输出（如 num_classes=2）: 取第 1 类（恶性）的 logit
+            return self.criterion(logits[:, 1], labels.float())
 
     def _cross_entropy_loss(self, logits: torch.Tensor, labels: torch.Tensor) -> torch.Tensor:
         """多分类 CE 损失"""
