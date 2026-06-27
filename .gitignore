@@ -107,12 +107,15 @@ runs/
 # TensorBoard
 events.out.tfevents.*
 
-# Data (medical images / datasets)
-data/
-dataset/
-datasets/
+# Data (medical images / datasets) — only root-level
+/data/
+/dataset/
+/datasets/
 *.npy
 *.npz
+
+# Un-ignore source code directory named 'data'
+!src/data/
 
 # Outputs / results
 outputs/
