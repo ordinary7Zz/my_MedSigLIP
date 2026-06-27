@@ -17,8 +17,12 @@ import sys
 import os
 import argparse
 
-# 将项目根目录加入路径
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# 将项目根目录加入 Python 搜索路径（支持从任意位置运行）
+_PROJ_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, _PROJ_ROOT)
+# 同时加入当前工作目录作为备选
+if os.getcwd() not in sys.path:
+    sys.path.insert(0, os.getcwd())
 
 import torch
 from src.models.classifier import MedSigLIPClassifier
