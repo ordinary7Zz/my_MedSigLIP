@@ -3,10 +3,8 @@
 # ============================================================
 
 model:
-  # HuggingFace ID 或本地路径。如已下载到本地，改为本地路径:
-  #   name: "./pretrained/medsiglip-448"
-  name: "google/medsiglip-448"
-  local_files_only: false                # true: 仅从本地加载，不联网
+  name: "./pretrained/medsiglip-448"      # 本地权重路径
+  local_files_only: true                  # 仅从本地加载，不联网
   num_classes: 2                         # 2 = 二分类（良性/恶性）
   fine_tune_strategy: "partial"          # linear_probing | partial | full
   unfreeze_last_n: 6                     # 解冻最后 N 个 Transformer Block（仅 partial 模式生效）
