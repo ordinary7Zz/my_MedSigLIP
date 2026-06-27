@@ -25,7 +25,7 @@ data:
   #     test/
   #       benign/
   #       malignant/
-  root_dir: "data/thyroid_binary"
+  root_dir: "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls"
   image_size: 448                        # 输入尺寸
   mean: [0.5, 0.5, 0.5]                # 归一化均值（灰度图三通道一致）
   std: [0.5, 0.5, 0.5]                  # 归一化标准差
