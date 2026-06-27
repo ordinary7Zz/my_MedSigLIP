@@ -67,6 +67,21 @@ class Trainer:
         loss_cfg = config["training"]["loss"]
         self._setup_loss(loss_cfg, class_weights)
 
+        # 训练参数（必须早于 _setup_scheduler，因为调度器需要 self.epochs）
+        train_cfg = config["training"]
+        self.epochs = train_cfg["epochs"]
+        self.warmup_epochs = train_cfg.get("warmup_epochs", 0)
+        self.gradient_accumulation_steps = train_cfg.get("gradient_accumulation_steps", 1)
+        self.max_grad_norm = train_cfg.get("max_grad_norm", 1.0)
+        self.label_smoothing = train_cfg.get("label_smoothing", 0.0)
+        self.log_interval = config["logging"].get("log_interval", 20)
+        self.eval_interval = config["logging"].get("eval_interval", 1)
+        self.early_stopping_patience = train_cfg.get("early_stopping_patience", 10)
+        self.save_best_metric = config["evaluation"]["save_best_metric"]
+        self.save_best_mode = config["evaluation"]["mode"]
+        self.save_top_k = config["logging"].get("save_top_k", 3)
+        self.seed = config.get("seed", 42)
+
         # 学习率调度器
         self._setup_scheduler()
 
@@ -96,20 +111,6 @@ class Trainer:
         # 检查点
         self.checkpoint_dir = Path(config["logging"]["checkpoint_dir"])
         self.checkpoint_dir.mkdir(parents=True, exist_ok=True)
-
-        # 训练参数
-        train_cfg = config["training"]
-        self.epochs = train_cfg["epochs"]
-        self.gradient_accumulation_steps = train_cfg.get("gradient_accumulation_steps", 1)
-        self.max_grad_norm = train_cfg.get("max_grad_norm", 1.0)
-        self.label_smoothing = train_cfg.get("label_smoothing", 0.0)
-        self.log_interval = config["logging"].get("log_interval", 20)
-        self.eval_interval = config["logging"].get("eval_interval", 1)
-        self.early_stopping_patience = train_cfg.get("early_stopping_patience", 10)
-        self.save_best_metric = config["evaluation"]["save_best_metric"]
-        self.save_best_mode = config["evaluation"]["mode"]
-        self.save_top_k = config["logging"].get("save_top_k", 3)
-        self.seed = config.get("seed", 42)
 
         # 状态
         self.current_epoch = 0
