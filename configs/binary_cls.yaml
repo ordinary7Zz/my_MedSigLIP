@@ -41,11 +41,11 @@ data:
 training:
   batch_size: 32
   epochs: 30
-  learning_rate: 5e-5                    # partial/full: 1e-5~5e-5; linear_probing: 1e-3
+  learning_rate: 0.00005                 # partial/full: 1e-5~5e-5; linear_probing: 1e-3
   weight_decay: 0.01
   warmup_epochs: 3                       # 学习率预热轮数
   lr_scheduler: "cosine"                # cosine | step | plateau
-  lr_min: 1e-6                           # cosine 最低 LR
+  lr_min: 0.000001                       # cosine 最低 LR
   early_stopping_patience: 7             # 早停耐心值（val loss 不降则停）
   gradient_accumulation_steps: 1         # 梯度累积步数
   max_grad_norm: 1.0                     # 梯度裁剪
