@@ -63,11 +63,7 @@ class Trainer:
             weight_decay=config["training"]["weight_decay"],
         )
 
-        # 损失函数
-        loss_cfg = config["training"]["loss"]
-        self._setup_loss(loss_cfg, class_weights)
-
-        # 训练参数（必须早于 _setup_scheduler，因为调度器需要 self.epochs）
+        # 训练参数（必须在 _setup_loss 和 _setup_scheduler 之前）
         train_cfg = config["training"]
         self.epochs = train_cfg["epochs"]
         self.warmup_epochs = train_cfg.get("warmup_epochs", 0)
@@ -81,6 +77,10 @@ class Trainer:
         self.save_best_mode = config["evaluation"]["mode"]
         self.save_top_k = config["logging"].get("save_top_k", 3)
         self.seed = config.get("seed", 42)
+
+        # 损失函数
+        loss_cfg = config["training"]["loss"]
+        self._setup_loss(loss_cfg, class_weights)
 
         # 学习率调度器
         self._setup_scheduler()
