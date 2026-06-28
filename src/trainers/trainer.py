@@ -213,6 +213,7 @@ class Trainer:
 
         for epoch in range(self.epochs):
             self.current_epoch = epoch
+            did_validate = False
 
             # 预热
             self._warmup_lr(epoch)
@@ -229,6 +230,7 @@ class Trainer:
 
             # 验证
             if (epoch + 1) % self.eval_interval == 0 or epoch == self.epochs - 1:
+                did_validate = True
                 val_loss, val_metrics = self._validate_epoch()
                 self.logger.log_metrics({"loss": val_loss, **val_metrics}, self.global_step, prefix="val/")
 
@@ -262,12 +264,10 @@ class Trainer:
                     print(f"\n[EarlyStopping] No improvement for {self.early_stopping_patience} epochs. Stopping.")
                     break
 
-            # 更新学习率（预热阶段不调用 scheduler）
-            if self.scheduler is not None and epoch >= self.warmup_epochs:
+            # 更新学习率（仅在验证过的 epoch 且预热期结束后调用 scheduler）
+            if self.scheduler is not None and epoch >= self.warmup_epochs and did_validate:
                 if isinstance(self.scheduler, ReduceLROnPlateau):
-                    # Plateau 需要传入指标值
-                    metric_for_lr = val_loss  # 或者 val_metrics.get(self.save_best_metric, val_loss)
-                    self.scheduler.step(metric_for_lr)
+                    self.scheduler.step(val_loss)
                 else:
                     self.scheduler.step()
 

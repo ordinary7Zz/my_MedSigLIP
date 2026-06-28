@@ -35,15 +35,17 @@ class MetricsCalculator:
         """
         results = {}
 
+        # 先统一计算概率
+        probs_all = self._softmax(logits)  # (N, C), 每行和=1
+
         if self.num_classes == 1:
-            # 单输出二分类
-            probs = 1.0 / (1.0 + np.exp(-logits.flatten()))
+            probs = probs_all[:, 0]  # 单类概率
             preds = (probs >= 0.5).astype(int)
         elif self.is_binary:
-            probs = self._softmax(logits)[:, 1]
+            probs = probs_all[:, 1]  # 正类(恶性)概率
             preds = logits.argmax(axis=1)
         else:
-            probs_all = self._softmax(logits)
+            probs = probs_all            # 多分类使用完整概率矩阵
             preds = logits.argmax(axis=1)
 
         for metric_name in self.metrics_list:

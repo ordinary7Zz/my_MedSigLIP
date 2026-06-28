@@ -51,7 +51,7 @@ class MedSigLIPClassifier(nn.Module):
         # 提取视觉编码器（ViT）
         self.vision_encoder = self.full_model.vision_model
         # 视觉编码器的配置
-        config = AutoConfig.from_pretrained(model_name)
+        config = AutoConfig.from_pretrained(model_name, local_files_only=local_files_only)
         vision_config = config.vision_config
 
         self.emb_dim = vision_config.hidden_size
