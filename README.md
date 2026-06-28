@@ -152,7 +152,7 @@ python scripts/prepare_data.py \
 python scripts/train.py --config configs/binary_cls.yaml
 
 # TIRADS 多分类
-python scripts/train.py --config configs/multi_cls.yaml
+python scripts/train.py --config configs/multi_cls.yaml --pretrained checkpoints/binary_cls/best_model.pt
 
 # 指定 GPU
 python scripts/train.py --config configs/binary_cls.yaml --device cuda:0
