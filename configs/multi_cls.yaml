@@ -31,7 +31,7 @@ data:
   #       tirads_1/ ... tirads_5/
   #     test/
   #       tirads_1/ ... tirads_5/
-  root_dir: "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Cine-Clip/Cine-Clip_by_TIRADS/images"
+  root_dir: "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Cine-Clip/sample_TIRADS"
   image_size: 448
   mean: [0.5, 0.5, 0.5]
   std: [0.5, 0.5, 0.5]
