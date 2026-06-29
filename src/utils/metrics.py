@@ -95,15 +95,21 @@ class MetricsCalculator:
                     results["specificity"] = np.mean(specificities)
 
             elif metric_name == "auc_roc":
-                if self.is_binary:
-                    results["auc_roc"] = roc_auc_score(labels, probs)
-                else:
-                    results["auc_roc"] = roc_auc_score(labels, probs_all, multi_class="ovr", average="macro")
+                try:
+                    if self.is_binary:
+                        results["auc_roc"] = roc_auc_score(labels, probs)
+                    else:
+                        results["auc_roc"] = roc_auc_score(labels, probs_all, multi_class="ovr", average="macro")
+                except ValueError:
+                    results["auc_roc"] = float("nan")
 
             elif metric_name == "auc_roc_ovr":
-                results["auc_roc_ovr"] = roc_auc_score(
-                    labels, probs_all, multi_class="ovr", average="macro"
-                )
+                try:
+                    results["auc_roc_ovr"] = roc_auc_score(
+                        labels, probs_all, multi_class="ovr", average="macro"
+                    )
+                except ValueError:
+                    results["auc_roc_ovr"] = float("nan")
 
             elif metric_name == "kappa":
                 results["kappa"] = cohen_kappa_score(labels, preds)
@@ -115,7 +121,8 @@ class MetricsCalculator:
 
     @staticmethod
     def _softmax(x: np.ndarray) -> np.ndarray:
-        # 数值稳定 softmax：处理 Inf/NaN 并保证每行概率和为 1.0
+        # 数值稳定 softmax：处理 Inf/NaN 并保证每行概率和严格为 1.0
+        x = np.asarray(x, dtype=np.float64)                      # 提升到 float64 避免精度损失
         x = np.nan_to_num(x, nan=0.0, posinf=1e4, neginf=-1e4)  # 替换非法值
         x_max = x.max(axis=1, keepdims=True)
         e_x = np.exp(np.clip(x - x_max, -50, 50))               # 裁剪防止下溢/溢出
