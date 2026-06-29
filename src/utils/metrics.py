@@ -115,8 +115,14 @@ class MetricsCalculator:
 
     @staticmethod
     def _softmax(x: np.ndarray) -> np.ndarray:
-        e_x = np.exp(x - x.max(axis=1, keepdims=True))
-        return e_x / e_x.sum(axis=1, keepdims=True)
+        # 数值稳定 softmax：处理 Inf/NaN 并保证每行概率和为 1.0
+        x = np.nan_to_num(x, nan=0.0, posinf=1e4, neginf=-1e4)  # 替换非法值
+        x_max = x.max(axis=1, keepdims=True)
+        e_x = np.exp(np.clip(x - x_max, -50, 50))               # 裁剪防止下溢/溢出
+        probs = e_x / e_x.sum(axis=1, keepdims=True)
+        probs = np.clip(probs, 1e-15, 1.0)                      # 避免极端 0/1
+        probs = probs / probs.sum(axis=1, keepdims=True)         # 重新归一化确保和为 1.0
+        return probs
 
     def detailed_report(self, logits: np.ndarray, labels: np.ndarray) -> str:
         """生成详细的分类报告"""
