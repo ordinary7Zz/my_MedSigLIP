@@ -100,12 +100,8 @@ checkpoints/
 *.onnx
 
 # Logs
-logs/
 *.log
 runs/
-
-# TensorBoard
-events.out.tfevents.*
 
 # Data (medical images / datasets) — only root-level
 /data/

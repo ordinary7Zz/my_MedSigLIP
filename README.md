@@ -166,14 +166,22 @@ python scripts/train.py --config configs/binary_cls.yaml --resume checkpoints/bi
 ### Step 5: 评估
 
 ```bash
+# 二分类（良恶性）
 python scripts/evaluate.py \
     --checkpoint checkpoints/binary_cls/best_model.pt \
     --config configs/binary_cls.yaml \
     --split test \
-    --visualize
+    --output_dir evaluation_results/binary
+
+# TIRADS 多分类
+python scripts/evaluate.py \
+    --checkpoint checkpoints/multi_cls/best_model.pt \
+    --config configs/multi_cls.yaml \
+    --split test \
+    --output_dir evaluation_results/multi_cls
 ```
 
-生成：ROC/PR 曲线、混淆矩阵图、错误样本分析。
+控制台输出评估指标和分类报告，`--output_dir` 目录下生成错误样本分析文件。如需可视化图表，添加 `--visualize` 参数。
 
 ### Step 6: 推理
 
