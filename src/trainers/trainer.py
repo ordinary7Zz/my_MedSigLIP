@@ -103,10 +103,7 @@ class Trainer:
 
         # 日志
         log_dir = config["logging"]["log_dir"]
-        self.logger = Logger(
-            log_dir=log_dir,
-            use_tensorboard=config["logging"].get("use_tensorboard", True),
-        )
+        self.logger = Logger(log_dir=log_dir)
 
         # 检查点
         self.checkpoint_dir = Path(config["logging"]["checkpoint_dir"])

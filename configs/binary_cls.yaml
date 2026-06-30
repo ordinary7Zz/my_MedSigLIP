@@ -66,7 +66,7 @@ logging:
   checkpoint_dir: "checkpoints/binary_cls"
   log_interval: 20                       # 每 N 步打印日志
   eval_interval: 1                       # 每 N 个 epoch 验证一次
-  use_tensorboard: true
+  use_tensorboard: false
   save_top_k: 3                          # 保存最佳 K 个模型
 
 seed: 42

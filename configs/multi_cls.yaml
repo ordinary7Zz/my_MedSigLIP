@@ -57,7 +57,7 @@ training:
   gradient_accumulation_steps: 1
   max_grad_norm: 1.0
   mixed_precision: "fp16"
-  label_smoothing: 0.1                   # 多分类可用 0.1
+  label_smoothing: 0.0                   # 极度不平衡时勿与 class_weights 同时使用
 
   loss:
     name: "cross_entropy"                # cross_entropy
@@ -72,7 +72,7 @@ logging:
   checkpoint_dir: "checkpoints/multi_cls"
   log_interval: 20
   eval_interval: 1
-  use_tensorboard: true
+  use_tensorboard: false
   save_top_k: 3
 
 seed: 42

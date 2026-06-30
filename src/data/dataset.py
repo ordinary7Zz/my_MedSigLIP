@@ -163,7 +163,7 @@ def create_dataloaders(
         shuffle=True,
         num_workers=nw,
         pin_memory=pm,
-        drop_last=True,                   # 丢弃最后不完整的 batch
+        drop_last=False,                  # 不平衡数据不要丢弃末尾样本（可能包含少数类）
     )
     val_loader = torch.utils.data.DataLoader(
         val_dataset,

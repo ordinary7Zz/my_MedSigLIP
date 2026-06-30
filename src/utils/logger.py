@@ -1,8 +1,7 @@
 """
-日志与可视化工具
+日志工具
 """
 
-import os
 import json
 import time
 import yaml
@@ -11,7 +10,7 @@ from typing import Optional
 
 
 class Logger:
-    """训练日志记录器"""
+    """训练日志记录器，写入纯文本 log 文件"""
 
     def __init__(
         self,
@@ -22,8 +21,6 @@ class Logger:
         self.log_dir = Path(log_dir)
         self.log_dir.mkdir(parents=True, exist_ok=True)
 
-        self.use_tensorboard = use_tensorboard
-        self.writer = None
         self.metrics_history: list = []
         self.start_time = time.time()
 
@@ -31,14 +28,13 @@ class Logger:
             experiment_name = time.strftime("%Y%m%d_%H%M%S")
         self.experiment_name = experiment_name
 
-        if use_tensorboard:
-            try:
-                from torch.utils.tensorboard import SummaryWriter
-                tb_dir = self.log_dir / "tensorboard" / experiment_name
-                self.writer = SummaryWriter(log_dir=str(tb_dir))
-                print(f"[Logger] TensorBoard logging to: {tb_dir}")
-            except ImportError:
-                print("[Logger] tensorboard not installed, skipping TensorBoard logging")
+        # 打开日志文件
+        log_path = self.log_dir / f"{experiment_name}.log"
+        self.log_file = open(log_path, "w", buffering=1)  # 行缓冲，即时写入
+        print(f"[Logger] Logging to: {log_path}")
+
+    def _write_line(self, line: str):
+        self.log_file.write(line + "\n")
 
     def log_metrics(self, metrics: dict, step: int, prefix: str = ""):
         """记录指标"""
@@ -51,51 +47,29 @@ class Logger:
         }
         self.metrics_history.append(entry)
 
-        # TensorBoard
-        if self.writer is not None:
-            for k, v in metrics.items():
-                if not isinstance(v, list):
-                    self.writer.add_scalar(f"{prefix}{k}", v, step)
+        # 写入 log 文件
+        items = [f"step={step}"]
+        for k, v in metrics.items():
+            if isinstance(v, float):
+                items.append(f"{prefix}{k}={v:.6f}")
+            elif not isinstance(v, list):
+                items.append(f"{prefix}{k}={v}")
+        self._write_line(f"[{prefix.rstrip('/')}] " + " | ".join(items))
 
     def log_lr(self, lr: float, step: int):
         """记录学习率"""
-        if self.writer is not None:
-            self.writer.add_scalar("train/lr", lr, step)
+        self._write_line(f"[train] step={step} | lr={lr:.8f}")
 
     def log_confusion_matrix(self, cm: list, class_names: list, step: int, prefix: str = "val"):
-        """在 TensorBoard 中记录混淆矩阵（需要 matplotlib）"""
-        if self.writer is None:
-            return
-        try:
-            import matplotlib.pyplot as plt
-            import numpy as np
-
-            cm = np.array(cm)
-            fig, ax = plt.subplots(figsize=(max(6, len(class_names) * 1.2),
-                                              max(5, len(class_names) * 1.0)))
-            im = ax.imshow(cm, cmap="Blues")
-            ax.set_xticks(range(len(class_names)))
-            ax.set_yticks(range(len(class_names)))
-            ax.set_xticklabels(class_names, rotation=45, ha="right", fontsize=9)
-            ax.set_yticklabels(class_names, fontsize=9)
-            ax.set_xlabel("Predicted")
-            ax.set_ylabel("True")
-            ax.set_title(f"Confusion Matrix - {prefix}")
-
-            # 标注数值
-            for i in range(cm.shape[0]):
-                for j in range(cm.shape[1]):
-                    ax.text(j, i, str(cm[i, j]),
-                            ha="center", va="center",
-                            color="white" if cm[i, j] > cm.max() / 2 else "black",
-                            fontsize=8)
-
-            plt.colorbar(im)
-            plt.tight_layout()
-            self.writer.add_figure(f"{prefix}/confusion_matrix", fig, step)
-            plt.close(fig)
-        except Exception:
-            pass
+        """记录混淆矩阵到 log 文件"""
+        import numpy as np
+        cm = np.array(cm)
+        self._write_line(f"[{prefix.rstrip('/')}] step={step} confusion_matrix:")
+        header = " " * 12 + "".join(f"{n:>8}" for n in class_names)
+        self._write_line(header)
+        for i, name in enumerate(class_names):
+            row = f"  {name:>10}" + "".join(f"{cm[i, j]:>8}" for j in range(len(class_names)))
+            self._write_line(row)
 
     def save_metrics(self):
         """保存指标历史到 JSON"""
@@ -105,8 +79,7 @@ class Logger:
         print(f"[Logger] Metrics saved to: {path}")
 
     def close(self):
-        if self.writer is not None:
-            self.writer.close()
+        self.log_file.close()
 
 
 def load_config(config_path: str) -> dict:
