@@ -1,0 +1,1431 @@
+Total samples: 3704
+Errors: 714 (19.28%)
+
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000220_13D162BC_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000220_33E2C53B_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000220_42EEDD14_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000220_F5DB44BF_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000264_96556E49_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000264_AAD93923_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000264_AAEE2D10_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000264_AE018A27_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000266_28C95F83_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000266_5024EA3D_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000267_618BE783_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000507_501ACC43_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000563_0C675140_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000567_32B245CE_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000567_9DB84057_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000647_4EBB7062_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000661_4E7A829E_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000685_2178C505_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000685_C57696D3_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000692_5EB6B130_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000692_EEF49AA3_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000718_37F99E5A_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000718_6B80787F_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000771_14B1AB93_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000771_9E3418F5_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000771_A2409573_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000807_04EA6677_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000807_B5BCBB37_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000874_13DE470B_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000874_A35BDBB2_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000933_0C374CFA_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000933_7E6BE26C_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00000950_45285747_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001001_F60685F0_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001008_59574176_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001123_5D58BA4C_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001123_BC6813EF_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001140_753F3FFC_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001140_92C2F60E_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001140_F611AAED_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001173_492E0528_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001173_F8D52994_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001185_A5835289_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001218_56F13DF6_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001307_9CF12ED2_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001308_CC150202_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001308_F5E678F2_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001313_58F574CB_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001317_EDD08F34_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001319_BBBA6CC7_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001377_07F95DF9_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001436_D8C7CB5F_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001481_74072FD6_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001481_83B6F92C_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001482_1C7C99B9_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001492_2F5F1009_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001519_130B79A6_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001526_0DB06354_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001526_B526D9CA_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001553_6B828DA9_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001553_B189C323_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001592_604C5F22_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001592_8B7CBE47_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001694_214317DF_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001694_5A4568D7_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001766_0F099441_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001766_E8FC69F8_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001808_44E2F850_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001818_3515E4D6_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001879_CDE9B202_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001906_76F80125_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001949_6E0FE172_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001951_0500C300_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001966_750232DC_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001968_57F477BE_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001997_B2843A01_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00001997_D0F52175_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002017_3C05F86D_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002017_B52A3144_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002069_3385D028_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002094_67143155_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002129_DBD0CAC0_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002175_49BB9568_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002175_A61B3E21_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002176_717ACD99_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002227_7B0BE884_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002245_02796AD1_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002245_CF5232C1_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002245_D39D980E_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002293_7D1FB872_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002306_0F7F1554_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002306_6E884BED_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002306_9054C245_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002308_1DF56BE8_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002308_3A1DE333_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002308_A75690CA_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002351_3237B723_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002351_446383DC_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002351_9B56505A_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002351_E5348935_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002364_535982CD_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002364_7729C87D_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002364_E1C65C56_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002366_E0E3A17E_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002373_16420C02_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002373_16ADFDCB_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002390_46DCE659_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002390_ECFA51A9_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002441_2FCC8D3A_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002441_5DD28075_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002441_CC9030FB_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002443_4E4428AB_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002454_AB94F155_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002473_382DB039_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002473_CB0B0405_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002515_75F271C8_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002515_CE95C95D_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002534_180887C3_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002536_457BDFBE_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002536_547B617D_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002551_E38F5679_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002592_7E5EE872_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002592_8660EA66_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002592_DBE21353_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002599_18D40FCE_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002599_CF6FECD1_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002599_D4DD9ABF_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002669_599BB4B2_4.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002669_65450934_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002669_BC827891_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002669_E3267AB4_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002712_7A29467E_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002712_9523EF38_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002725_C8BEC865_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002752_3B3A3232_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002795_841B1EC6_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002798_37DF13F5_4.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002798_48505610_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002798_4E776E37_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002875_1FA5AEF4_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002875_C0DE460A_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002879_43DA2925_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002884_0B12CD72_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002884_528B91F1_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002889_9A8F193F_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002889_A5626388_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002929_02E28EF5_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002929_9D3BABCF_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002929_DF187076_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002947_51002267_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002947_831076BC_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002951_6DA01D33_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002963_FE4BB874_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002979_3E0DDBEC_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002979_D3FFAD6A_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00002979_F24AF705_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003018_A3BADB25_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003034_401AE2E5_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003054_431E6CE3_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003054_5CA06AF0_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003054_EB759CD3_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003059_F18D4F32_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003071_0E7DCE49_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003077_657C123C_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003197_C2C11C9C_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003208_FEDA56E7_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003236_DF8440D4_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003236_ECD79AC9_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003236_F7D17C62_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003323_18D68524_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003323_27ABDC90_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003323_629B0347_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003323_EB680EB2_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003338_D2B00B1F_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003351_872DA237_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003351_9ABC3217_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003385_C9A33833_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003415_0FE6376F_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003415_8138DB9C_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003431_ACAECB69_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003515_780FCFC2_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003515_B03D04BE_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003535_F4DFC468_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003542_8311C188_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003542_8F9EA073_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003542_B4B4E649_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003555_16D39199_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003612_771307FD_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003617_62067516_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003635_86D8ED86_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003635_D1E94799_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003635_F2EB0D31_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003675_135D7FDE_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003675_FE4633D8_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003686_38878E8D_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003695_E8AB4500_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003721_03B3B576_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003738_3E4824A5_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003738_E4256D54_4.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003766_01A545BA_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003766_8ED5738C_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003833_07EC54D8_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003833_F5013601_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003882_4FE44A29_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003882_FAA5507E_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003886_78CAEF93_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003886_8B13010C_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003886_D93715DF_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003886_EBD56FB6_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003894_3BE639F8_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003933_4191E13A_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003958_3D3F0658_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00003998_BD5FB5AA_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004055_1B8A01A9_5.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004097_2CB10D3E_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004294_C86742CF_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004295_3B19D632_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004295_8B1EF128_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004321_2C5961FA_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004358_99DB8AC7_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004394_02A27309_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004548_27009A58_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004548_DB9650B8_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004548_FECDB3C5_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004553_6A65AAD7_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004553_B23717DA_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004553_F2C51B2B_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004573_1033F7FD_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004573_8878B23E_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004573_A3B63473_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004573_A42D06BB_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004576_1C98ECF1_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004576_27B87549_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004585_54E4A1E6_3.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004604_9BF73614_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004604_E31A2B60_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004653_87091368_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004653_FE64281D_2.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004686_B75C0A8E_0.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/ThyroidXL_test_00004761_D065C3D4_1.png
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0000.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0001.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0003.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0004.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0005.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0007.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0009.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0010.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0013.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0015.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0016.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0022.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0023.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0025.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0026.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0027.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0030.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0031.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0032.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0033.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0034.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0035.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0036.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0037.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0041.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0044.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0046.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0047.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0048.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0050.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0051.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0054.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0055.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0056.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0059.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0061.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0067.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0068.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0073.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0074.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0077.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0078.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0081.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0082.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0085.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0087.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0090.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0091.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0093.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0094.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0096.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0107.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0111.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0115.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0117.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0118.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0122.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0124.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0127.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0128.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0129.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0132.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0134.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0135.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0138.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0139.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0143.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0145.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0151.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0154.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0155.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0156.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0157.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0158.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0159.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0161.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0164.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0167.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0168.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0172.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0175.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0176.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0178.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0184.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0187.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0188.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0189.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0191.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0193.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0194.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0195.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0198.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0199.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0200.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0201.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0203.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0206.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0214.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0215.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0217.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0220.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0222.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0223.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0225.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0226.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0227.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0229.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0230.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0231.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0232.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0235.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0236.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0237.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0238.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0241.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0242.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0243.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0245.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0249.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0250.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0251.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0252.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0255.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0258.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0263.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0265.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0266.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0267.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0268.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0270.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0271.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0273.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0274.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0275.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0276.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0277.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0279.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0281.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0285.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0287.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0289.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0294.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0297.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0305.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0312.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0317.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0319.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0320.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0325.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0326.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0327.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0328.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0333.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0337.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0341.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0342.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0343.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0345.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0346.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0347.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0348.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0349.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0351.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0353.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0354.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0355.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0356.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0357.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0358.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0361.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0363.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0366.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0367.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0368.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0369.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0370.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0372.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN3K_test_0374.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000009.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000025.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000035.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000040.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000046.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000048.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000054.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000060.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000083.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000086.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000105.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000126.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000131.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000137.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000149.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000154.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000161.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000174.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000177.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000202.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000223.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000224.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000225.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000228.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000244.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000246.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000300.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000307.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000318.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000337.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000339.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000349.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000361.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000366.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000371.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000379.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000382.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000385.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000387.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000400.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000405.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000413.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000415.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000433.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000445.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000451.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000460.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000496.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000537.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000545.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000546.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000554.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000576.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000582.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000605.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000606.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000623.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000634.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000635.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000637.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000649.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000651.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_000652.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001729.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001732.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001764.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001765.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001769.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001773.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001775.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001776.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001786.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001790.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001812.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001819.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001875.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001876.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001878.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001891.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001918.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001920.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001937.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_001942.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002362.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002366.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002367.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002382.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002435.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002448.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002451.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002456.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002459.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002588.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002606.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002863.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002875.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002889.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002912.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002918.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002928.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002931.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002945.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002959.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_002966.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003010.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003048.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003139.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003456.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003474.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003485.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003489.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003505.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003510.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003526.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003541.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003558.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003559.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_003575.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004096.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004110.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004115.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004122.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004126.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004130.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004146.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004147.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004165.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004599.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004628.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004631.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004640.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004667.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004668.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004670.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004671.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004677.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004678.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/0/TN5K_test_004712.jpg
+  True: 0 -> Pred: 1
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000211_82F7E0C1_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000281_E17BC8FD_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000283_9D31D358_5.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000448_313822E9_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000448_B14CB00E_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000454_81158756_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000463_01676D75_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000463_D22447FB_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000481_41287603_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000481_52225BAE_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000485_3A2CF2E5_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000521_F89B5C2C_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000528_A9F9F583_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000699_470C5771_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000709_64F7F38A_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000753_A3ED0C13_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000829_74DAC6B2_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000832_31877121_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000843_D086AB84_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000850_6F31EFA5_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000892_CBD52D34_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00000939_3B146E0B_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001057_E39CEE4B_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001062_461E8103_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001074_F11537EA_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001131_3EA210AC_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001144_C6323405_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001156_9DCA790E_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001167_3D953C79_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001182_18D38440_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001182_9B9221F2_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001182_C9593BA7_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001226_E277F389_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001265_9CDD7876_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001282_03ACBDCC_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001292_0E3B94A7_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001292_471EEB12_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001293_BE051479_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001295_FB4DE6C5_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001339_4E6B615D_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001371_394F5381_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001427_5D364A77_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001449_9D6937B4_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001478_31882B2B_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001505_2C9C8A45_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001605_43AB45C7_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001641_C246628F_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001656_9A814565_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001664_6E24C861_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001711_B8011889_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001772_B1655B61_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001804_87C21E6E_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001850_8892212F_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001875_88FFE16F_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001978_380496B5_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00001978_DC398883_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002002_727D536F_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002002_B405FF44_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002103_5206CFEA_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002103_AFE829B7_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002124_7D39C08F_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002162_292410EE_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002280_389D1A69_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002426_48A62FE0_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002426_61CC3585_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002629_32764F79_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002751_C24B65B2_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002757_4B06EE3C_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002757_6212133B_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002838_1E638EAB_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002838_A9C56A4B_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002838_EDBD208B_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002877_E7A54229_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002902_0DE4CF7E_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002902_F2655E11_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002997_3CBE8B08_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002997_63F673E1_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002997_A5102D1C_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002997_F0DA293E_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002999_D66D7D53_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00002999_EE78B354_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003086_AB4CCA59_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003121_9FBF2052_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003137_5ACDDEA0_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003180_0155FBB4_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003180_0EDECE65_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003241_87000DD5_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003241_C9913BD9_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003241_DA8533F0_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003241_F5280E70_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003249_A53CEB9E_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003342_8050D443_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003342_AEECCB00_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003405_B4C8BFD3_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003548_3A5C86AB_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003552_E25F1B47_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003576_556D904F_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003613_00830BEC_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003804_5690A3E7_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003804_E11D82F5_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003811_2DC4927A_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003916_3304BBCC_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003916_C51D8AEC_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003926_0D3F4BDA_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00003932_89B4CFAD_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004119_C2178F61_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004218_1B875157_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004218_FE2C9AA5_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004239_1961CFDB_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004521_5888569C_2.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004613_52A8DFFD_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004724_5E7405BD_0.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004724_68C2097C_1.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/ThyroidXL_test_00004727_6FDAE621_3.png
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0386.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0405.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0406.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0412.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0431.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0439.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0452.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0463.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0472.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0473.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0480.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0492.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0497.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0526.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0534.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0539.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0541.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0566.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0569.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0571.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0573.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0575.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0581.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0600.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN3K_test_0609.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_000483.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_000908.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_000933.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_000985.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_001058.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_001240.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_001408.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_001481.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_001965.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_002253.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_002295.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_003392.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_003762.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_003763.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_004242.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_004400.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_004724.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_004750.jpg
+  True: 1 -> Pred: 0
+Image: /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test/1/TN5K_test_004995.jpg
+  True: 1 -> Pred: 0
